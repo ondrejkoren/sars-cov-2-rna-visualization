@@ -6,10 +6,14 @@ RNA Sequence source: [https://www.ncbi.nlm.nih.gov/nuccore/MN908947.3](https://w
 Feel free to tweak the colors or resolution to your liking.
 
 ## How to run
+### Python
 ```bash
 $ pip3 install -r requirements.txt
 $ python3 main.py
 ```
-
+### HTML
+```
+Just open index.html in a browser
+```
 ## Render
 ![render.png](render.png)
